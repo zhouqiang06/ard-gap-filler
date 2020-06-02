@@ -16,10 +16,10 @@
       ]
     },
 
-    "homepageURL": "https://code.usgs.gov/lcmap-rd/lcmap-ard-gap-filler/",
-    "downloadURL": "https://code.usgs.gov/lcmap-rd/lcmap-ard-gap-filler/archive/master.zip",
-    "disclaimerURL": "https://code.usgs.gov/lcmap-rd/lcmap-ard-gap-filler/blob/master/LICENSE.md",
-    "repositoryURL": "https://code.usgs.gov/lcmap-rd/lcmap-ard-gap-filler.git",
+    "homepageURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler/",
+    "downloadURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler/archive/master.zip",
+    "disclaimerURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler/blob/master/LICENSE.md",
+    "repositoryURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler.git",
     "vcs": "git",
 
     "laborHours": 0,
