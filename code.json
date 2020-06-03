@@ -1,6 +1,6 @@
 [
   {
-    "name": "lcmap-ard-gap-filler",
+    "name": "ard-gap-filler",
     "organization": "U.S. Geological Survey",
     "description": "This is the source code of \"Gap fill of land surface temperature and reflectance products in Landsat analysis ready data\" Remote Sensing",
     "version": "1.0.0",
@@ -18,7 +18,7 @@
 
     "homepageURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/",
     "downloadURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/-/archive/master/ard-gap-filler-master.zip",
-    "disclaimerURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/blob/master/LICENSE.md",
+    "disclaimerURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/-/blob/master/DISCLAIMER.md",
     "repositoryURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler.git",
     "vcs": "git",
 
