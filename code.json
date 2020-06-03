@@ -11,15 +11,15 @@
       "licenses": [
         {
           "name": "Unlicense",
-          "URL": "https://code.usgs.gov/qzhou/lcmap-ard-gap-filler/blob/master/LICENSE.md"
+          "URL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/-/blob/master/LICENSE.md"
         }
       ]
     },
 
-    "homepageURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler/",
-    "downloadURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler/-/archive/master/lcmap-ard-gap-filler-master.zip",
-    "disclaimerURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler/blob/master/LICENSE.md",
-    "repositoryURL": "https://code.usgs.gov/lcmap/research/lcmap-ard-gap-filler.git",
+    "homepageURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/",
+    "downloadURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/-/archive/master/ard-gap-filler-master.zip",
+    "disclaimerURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler/blob/master/LICENSE.md",
+    "repositoryURL": "https://code.usgs.gov/lcmap/research/ard-gap-filler.git",
     "vcs": "git",
 
     "laborHours": 0,
